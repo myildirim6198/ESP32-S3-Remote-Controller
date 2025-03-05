@@ -69,4 +69,8 @@ Developed custom pcb
 
 ![test](https://github.com/myildirim6198/ESP32-S3-Remote-Controller/blob/main/Images/RemoteControllerImage.jpg?raw=true)
 
+Serial plotter curves of the moved joysticks
+
+![test](https://github.com/myildirim6198/ESP32-S3-Remote-Controller/blob/main/Images/JoysticksImage.png?raw=true)
+
 I make no guarantees as to device funtionality. Please review the components, schematics and careful bring-up carefully before production.
