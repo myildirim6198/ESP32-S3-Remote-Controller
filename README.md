@@ -41,7 +41,7 @@ Supply Voltage: +5V0 to +5V5 (recommended: +5V0) USB supplied. On board Texas In
 ```
 python -m espefuse --chip esp32-s3 --port COM3 set_flash_voltage 3.3V
 ```
-It is recommended to power reset the device to apply the vdd_ddio changes.
+It is recommended to power reset the device to apply the vdd_sdio changes.
 
 - You can also erase the flash by writing following line
 ```
