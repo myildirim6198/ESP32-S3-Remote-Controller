@@ -65,3 +65,8 @@ build_flags =
 - Note to configure the COM-Port according to device manager and how it is recognized by the End device
 
 # Examples
+Developed custom pcb
+
+![test](https://github.com/myildirim6198/ESP32-S3-Remote-Controller/blob/main/Images/RemoteControllerImage.jpg?raw=true)
+
+I make no guarantees as to device funtionality. Please review the components, schematics and careful bring-up carefully before production.
