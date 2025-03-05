@@ -1,5 +1,5 @@
 # ESP32-S3-Remote-Controller
-An ESP32-S3 based remote controller for controlling FPV drones and other vraious remote controller applications. This custom pcb reads analog inputs of two joysticks and joystick button presses. There is also a small RGB-LED installed to quickly test device functionality.
+An ESP32-S3 based remote controller for controlling FPV drones and other vraious remote controller applications. This custom pcb reads analog inputs of two joysticks and joystick button presses. There is also a small RGB-LED installed to quickly test device functionality. This will be used to send commands to a flight controller in a future project.
 
 # Hardware features
 - SoC: Espressif ESP32-S3 System-On-Chip dual core with clock speeds up to 240 MHz + Wi-Fi with in buiilt USB CDC with speeds up to 12 Mbit/s
