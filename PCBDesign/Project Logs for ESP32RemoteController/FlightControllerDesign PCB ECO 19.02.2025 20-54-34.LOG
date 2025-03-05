@@ -1,0 +1,442 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VIN_PWR Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=VIN_PWR Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=VIN_PWR Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=+3V3 Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C45-2
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C51-1
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=GND Pin=C55-1
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=GND Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=GND Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=IC1-5
+Removed Pin From Net: NetName=+3V3 Pin=IC1-6
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=GND Pin=IC3-8
+Removed Pin From Net: NetName=VIN_PWR Pin=IC3-10
+Removed Pin From Net: NetName=VIN_PWR Pin=IC3-11
+Removed Pin From Net: NetName=VIN_PWR Pin=IC3-12
+Removed Pin From Net: NetName=GND Pin=IC3-13
+Removed Pin From Net: NetName=GND Pin=IC8-9
+Removed Pin From Net: NetName=GND Pin=IC8-11
+Removed Pin From Net: NetName=GND Pin=IC8-18
+Removed Pin From Net: NetName=GND Pin=IC8-20
+Removed Pin From Net: NetName=GND Pin=IC8-25
+Removed Pin From Net: NetName=GND Pin=IC9-1
+Removed Pin From Net: NetName=GND Pin=IC9-7
+Removed Pin From Net: NetName=GND Pin=IC9-9
+Removed Pin From Net: NetName=GND Pin=IC9-10
+Removed Pin From Net: NetName=I2C_SDA Pin=IC9-13
+Removed Pin From Net: NetName=I2C_SCL Pin=IC9-14
+Removed Pin From Net: NetName=+3V3 Pin=IC9-15
+Removed Pin From Net: NetName=GND Pin=IC9-16
+Removed Pin From Net: NetName=VIN_PWR Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J4-A1
+Removed Pin From Net: NetName=USBC_CC1 Pin=J4-A5
+Removed Pin From Net: NetName=USB_D_P Pin=J4-A6
+Removed Pin From Net: NetName=USB_D_N Pin=J4-A7
+Removed Pin From Net: NetName=GND Pin=J4-A12
+Removed Pin From Net: NetName=GND Pin=J4-B1
+Removed Pin From Net: NetName=USBC_CC2 Pin=J4-B5
+Removed Pin From Net: NetName=USB_D_P Pin=J4-B6
+Removed Pin From Net: NetName=USB_D_N Pin=J4-B7
+Removed Pin From Net: NetName=GND Pin=J4-B12
+Removed Pin From Net: NetName=GND Pin=J4-SH
+Removed Pin From Net: NetName=GND Pin=J4-SH
+Removed Pin From Net: NetName=GND Pin=J4-SH
+Removed Pin From Net: NetName=GND Pin=J4-SH
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J10-3
+Removed Pin From Net: NetName=GND Pin=J12-3
+Removed Pin From Net: NetName=GND Pin=J13-3
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=GND Pin=J15-3
+Removed Pin From Net: NetName=GND Pin=J16-3
+Removed Pin From Net: NetName=GND Pin=J17-3
+Removed Pin From Net: NetName=+3V3 Pin=Q2-1
+Removed Pin From Net: NetName=+3V3 Pin=Q3-1
+Removed Pin From Net: NetName=+3V3 Pin=Q4-1
+Removed Pin From Net: NetName=+3V3 Pin=Q5-1
+Removed Pin From Net: NetName=+3V3 Pin=Q6-1
+Removed Pin From Net: NetName=+3V3 Pin=Q7-1
+Removed Pin From Net: NetName=+3V3 Pin=Q8-1
+Removed Pin From Net: NetName=+3V3 Pin=Q9-1
+Removed Pin From Net: NetName=+3V3 Pin=Q10-1
+Removed Pin From Net: NetName=+3V3 Pin=Q11-1
+Removed Pin From Net: NetName=+3V3 Pin=Q12-1
+Removed Pin From Net: NetName=B1_EN Pin=R1-1
+Removed Pin From Net: NetName=VIN_PWR Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=B1_EN Pin=R5-2
+Removed Pin From Net: NetName=B1_PG Pin=R7-2
+Removed Pin From Net: NetName=B1_PG Pin=R9-2
+Removed Pin From Net: NetName=+3V3 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=I2C_SDA Pin=R24-1
+Removed Pin From Net: NetName=+3V3 Pin=R24-2
+Removed Pin From Net: NetName=I2C_SCL Pin=R25-1
+Removed Pin From Net: NetName=+3V3 Pin=R25-2
+Removed Pin From Net: NetName=+3V3 Pin=R29-2
+Removed Pin From Net: NetName=+3V3 Pin=R31-2
+Removed Pin From Net: NetName=+3V3 Pin=R33-2
+Removed Pin From Net: NetName=+3V3 Pin=R37-2
+Removed Pin From Net: NetName=+3V3 Pin=R39-2
+Removed Pin From Net: NetName=+3V3 Pin=R41-2
+Removed Pin From Net: NetName=+3V3 Pin=R43-2
+Removed Pin From Net: NetName=+3V3 Pin=R45-2
+Removed Pin From Net: NetName=+3V3 Pin=R47-2
+Removed Pin From Net: NetName=+3V3 Pin=R49-2
+Removed Pin From Net: NetName=+3V3 Pin=R51-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Member From Class: ClassName=Power Member=C8
+Removed Member From Class: ClassName=Power Member=C9
+Removed Member From Class: ClassName=Power Member=C10
+Removed Member From Class: ClassName=Power Member=C11
+Removed Member From Class: ClassName=Power Member=C12
+Removed Member From Class: ClassName=Power Member=C13
+Removed Member From Class: ClassName=Power Member=C14
+Removed Member From Class: ClassName=Power Member=C15
+Removed Member From Class: ClassName=Power Member=C16
+Removed Member From Class: ClassName=Power Member=C17
+Removed Member From Class: ClassName=Connections Member=C47
+Removed Member From Class: ClassName=Connections Member=C48
+Removed Member From Class: ClassName=Connections Member=C49
+Removed Member From Class: ClassName=Connections Member=C50
+Removed Member From Class: ClassName=Connections Member=C51
+Removed Member From Class: ClassName=Connections Member=C52
+Removed Member From Class: ClassName=Connections Member=C53
+Removed Member From Class: ClassName=Connections Member=C54
+Removed Member From Class: ClassName=Connections Member=C55
+Removed Member From Class: ClassName=Connections Member=C56
+Removed Member From Class: ClassName=Connections Member=C57
+Removed Member From Class: ClassName=Connections Member=C58
+Removed Member From Class: ClassName=Power Member=IC2
+Removed Member From Class: ClassName=Power Member=IC3
+Removed Member From Class: ClassName=Power Member=J1
+Removed Member From Class: ClassName=Power Member=J2
+Removed Member From Class: ClassName=Connections Member=J5
+Removed Member From Class: ClassName=Connections Member=J6
+Removed Member From Class: ClassName=Connections Member=J7
+Removed Member From Class: ClassName=Connections Member=J8
+Removed Member From Class: ClassName=Connections Member=J9
+Removed Member From Class: ClassName=Connections Member=J10
+Removed Member From Class: ClassName=Connections Member=J12
+Removed Member From Class: ClassName=Connections Member=J13
+Removed Member From Class: ClassName=Connections Member=J14
+Removed Member From Class: ClassName=Connections Member=J15
+Removed Member From Class: ClassName=Connections Member=J16
+Removed Member From Class: ClassName=Connections Member=J17
+Removed Member From Class: ClassName=Power Member=L2
+Removed Member From Class: ClassName=Connections Member=Q2
+Removed Member From Class: ClassName=Connections Member=Q3
+Removed Member From Class: ClassName=Connections Member=Q4
+Removed Member From Class: ClassName=Connections Member=Q5
+Removed Member From Class: ClassName=Connections Member=Q6
+Removed Member From Class: ClassName=Connections Member=Q7
+Removed Member From Class: ClassName=Connections Member=Q8
+Removed Member From Class: ClassName=Connections Member=Q9
+Removed Member From Class: ClassName=Connections Member=Q10
+Removed Member From Class: ClassName=Connections Member=Q11
+Removed Member From Class: ClassName=Connections Member=Q12
+Removed Member From Class: ClassName=Power Member=R7
+Removed Member From Class: ClassName=Power Member=R8
+Removed Member From Class: ClassName=Power Member=R9
+Removed Member From Class: ClassName=Power Member=R10
+Removed Member From Class: ClassName=Power Member=R11
+Removed Member From Class: ClassName=Power Member=R12
+Removed Member From Class: ClassName=Power Member=R13
+Removed Member From Class: ClassName=Connections Member=R29
+Removed Member From Class: ClassName=Connections Member=R30
+Removed Member From Class: ClassName=Connections Member=R31
+Removed Member From Class: ClassName=Connections Member=R32
+Removed Member From Class: ClassName=Connections Member=R33
+Removed Member From Class: ClassName=Connections Member=R34
+Removed Member From Class: ClassName=Connections Member=R37
+Removed Member From Class: ClassName=Connections Member=R38
+Removed Member From Class: ClassName=Connections Member=R39
+Removed Member From Class: ClassName=Connections Member=R40
+Removed Member From Class: ClassName=Connections Member=R41
+Removed Member From Class: ClassName=Connections Member=R42
+Removed Member From Class: ClassName=Connections Member=R43
+Removed Member From Class: ClassName=Connections Member=R44
+Removed Member From Class: ClassName=Connections Member=R45
+Removed Member From Class: ClassName=Connections Member=R46
+Removed Member From Class: ClassName=Connections Member=R47
+Removed Member From Class: ClassName=Connections Member=R48
+Removed Member From Class: ClassName=Connections Member=R49
+Removed Member From Class: ClassName=Connections Member=R50
+Removed Member From Class: ClassName=Connections Member=R51
+Removed Member From Class: ClassName=Connections Member=R52
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C18 NewDesignator=C8
+Change Component Designator: OldDesignator=C19 NewDesignator=C9
+Change Component Designator: OldDesignator=C20 NewDesignator=C10
+Change Component Designator: OldDesignator=C21 NewDesignator=C11
+Change Component Designator: OldDesignator=C22 NewDesignator=C12
+Change Component Designator: OldDesignator=C23 NewDesignator=C13
+Change Component Designator: OldDesignator=C24 NewDesignator=C14
+Change Component Designator: OldDesignator=C25 NewDesignator=C15
+Change Component Designator: OldDesignator=C26 NewDesignator=C16
+Change Component Designator: OldDesignator=C27 NewDesignator=C17
+Change Component Designator: OldDesignator=C28 NewDesignator=C18
+Change Component Designator: OldDesignator=C29 NewDesignator=C19
+Change Component Designator: OldDesignator=C30 NewDesignator=C20
+Change Component Designator: OldDesignator=C31 NewDesignator=C21
+Change Component Designator: OldDesignator=C32 NewDesignator=C22
+Change Component Designator: OldDesignator=C33 NewDesignator=C23
+Change Component Designator: OldDesignator=C34 NewDesignator=C24
+Change Component Designator: OldDesignator=C35 NewDesignator=C25
+Change Component Designator: OldDesignator=C36 NewDesignator=C26
+Change Component Designator: OldDesignator=C37 NewDesignator=C27
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC5
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Change Component Designator: OldDesignator=J11 NewDesignator=J3
+Change Component Designator: OldDesignator=L3 NewDesignator=L2
+Change Component Designator: OldDesignator=L4 NewDesignator=L3
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R14 NewDesignator=R7
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R16 NewDesignator=R9
+Change Component Designator: OldDesignator=R17 NewDesignator=R10
+Change Component Designator: OldDesignator=R18 NewDesignator=R11
+Change Component Designator: OldDesignator=R19 NewDesignator=R13
+Change Component Designator: OldDesignator=R20 NewDesignator=R12
+Change Component Designator: OldDesignator=R21 NewDesignator=R14
+Change Component Designator: OldDesignator=R22 NewDesignator=R15
+Change Component Designator: OldDesignator=R23 NewDesignator=R16
+Change Component Designator: OldDesignator=R35 NewDesignator=R18
+Change Component Designator: OldDesignator=R36 NewDesignator=R19
+Added Component: Designator=C28(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(GSB1C41110SSHR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c41x10sshr-ax1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.41mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GSB1C41110SSHR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(HDRV4W67P0X254_1X4_991X236X1117P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/en-us/products/part-detail/22102041?display=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.17mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "22-10-2041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-10-2041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/22-10-2041?qs=I2tGkhXPHwPlInpHG6ZNmQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(SLW1166415ASD)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-116641-5a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-116641-5A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW1166415ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/SLW-116641-5A-S-D?qs=IKkN%2F947nfBZSdW8n5Vqgw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U1(CNK_THB001P)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/THB001P/C%2526K/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "THB001P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/THB001P/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/THB001P/C%2526K/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(CNK_THB001P)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/THB001P/C%2526K/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "THB001P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/THB001P/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/THB001P/C%2526K/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=J2-A1
+Added Pin To Net: NetName=VIN_PWR Pin=J2-A4
+Added Pin To Net: NetName=USBC_CC1 Pin=J2-A5
+Added Pin To Net: NetName=USB_D_P Pin=J2-A6
+Added Pin To Net: NetName=USB_D_N Pin=J2-A7
+Added Pin To Net: NetName=VIN_PWR Pin=J2-A9
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=USBC_CC2 Pin=J2-B5
+Added Pin To Net: NetName=USB_D_P Pin=J2-B6
+Added Pin To Net: NetName=USB_D_N Pin=J2-B7
+Added Pin To Net: NetName=GND Pin=J2-MP1
+Added Pin To Net: NetName=GND Pin=J2-MP2
+Added Pin To Net: NetName=GND Pin=J2-MP3
+Added Pin To Net: NetName=GND Pin=J2-MP4
+Added Pin To Net: NetName=I2C_SCL Pin=J4-1
+Added Pin To Net: NetName=I2C_SDA Pin=J4-2
+Added Pin To Net: NetName=+3V3 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=B1_PG Pin=Q1-1
+Added Pin To Net: NetName=B1_EN Pin=R4-1
+Added Pin To Net: NetName=+3V3 Pin=R17-1
+Added Pin To Net: NetName=+3V3 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=VIN_PWR Pin=S1-3
+Added Pin To Net: NetName=GND Pin=U1-C
+Added Pin To Net: NetName=GND Pin=U1-D
+Added Pin To Net: NetName=+3V3 Pin=U1-VR1_1
+Added Pin To Net: NetName=GND Pin=U1-VR1_3
+Added Pin To Net: NetName=+3V3 Pin=U1-VR2_1
+Added Pin To Net: NetName=GND Pin=U1-VR2_3
+Added Pin To Net: NetName=GND Pin=U2-C
+Added Pin To Net: NetName=GND Pin=U2-D
+Added Pin To Net: NetName=+3V3 Pin=U2-VR1_1
+Added Pin To Net: NetName=GND Pin=U2-VR1_3
+Added Pin To Net: NetName=+3V3 Pin=U2-VR2_1
+Added Pin To Net: NetName=GND Pin=U2-VR2_3
+Change Net Name : Old Net Name=NetIC5_1 New Net Name=NetIC3_1
+Change Net Name : Old Net Name=NetIC5_2 New Net Name=NetIC3_2
+Change Net Name : Old Net Name=NetIC5_3 New Net Name=NetIC3_3
+Change Net Name : Old Net Name=VIN_PWR New Net Name=VBUS
+Added Pin To Net: NetName=JOY_1_1 Pin=C28-1
+Added Pin To Net: NetName=JOY_1_1 Pin=C29-1
+Added Pin To Net: NetName=JOY_1_1 Pin=U1-VR1_2
+Added Pin To Net: NetName=JOY_1_1 Pin=U1-VR2_2
+Added Net: Name=JOY_1_1
+Added Pin To Net: NetName=JOY_1_SW Pin=C30-1
+Added Pin To Net: NetName=JOY_1_SW Pin=R17-2
+Added Pin To Net: NetName=JOY_1_SW Pin=U1-A
+Added Pin To Net: NetName=JOY_1_SW Pin=U1-B
+Added Net: Name=JOY_1_SW
+Added Pin To Net: NetName=JOY_2_1 Pin=C31-1
+Added Pin To Net: NetName=JOY_2_1 Pin=U2-VR1_2
+Added Net: Name=JOY_2_1
+Added Pin To Net: NetName=JOY_2_2 Pin=C32-1
+Added Pin To Net: NetName=JOY_2_2 Pin=U2-VR2_2
+Added Net: Name=JOY_2_2
+Added Pin To Net: NetName=JOY_2_SW Pin=C33-1
+Added Pin To Net: NetName=JOY_2_SW Pin=R20-2
+Added Pin To Net: NetName=JOY_2_SW Pin=U2-A
+Added Pin To Net: NetName=JOY_2_SW Pin=U2-B
+Added Net: Name=JOY_2_SW
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=S1-2
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=Connections Member=Component C28 100n
+Added Member To Class: ClassName=Connections Member=Component C29 100n
+Added Member To Class: ClassName=Connections Member=Component C30 100n
+Added Member To Class: ClassName=Connections Member=Component C31 100n
+Added Member To Class: ClassName=Connections Member=Component C32 100n
+Added Member To Class: ClassName=Connections Member=Component C33 100n
+Added Member To Class: ClassName=Connections Member=Component J2 GSB1C41110SSHR
+Added Member To Class: ClassName=Connections Member=Component R17 10k
+Added Member To Class: ClassName=Connections Member=Component R20 10k
+Added Member To Class: ClassName=Power Member=Component S1 SLW-116641-5A-S-D
+Added Member To Class: ClassName=Connections Member=Component U1 THB001P
+Added Member To Class: ClassName=Connections Member=Component U2 THB001P

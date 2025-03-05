@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=B1_EN Pin=C6-2
+Removed Member From Class: ClassName=Connections Member=C18
+Removed Member From Class: ClassName=Connections Member=C19
+Removed Member From Class: ClassName=Connections Member=C20
+Removed Member From Class: ClassName=Connections Member=C21
+Removed Member From Class: ClassName=Connections Member=C22
+Removed Member From Class: ClassName=Connections Member=C23
+Added Component: Designator=C6(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B1_EN Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Member To Class: ClassName=Power Member=Component C2 22u
+Added Member To Class: ClassName=Power Member=Component C4 22u
+Added Member To Class: ClassName=Power Member=Component C6 100n
+Added Member To Class: ClassName=Power Member=Component C7 100n
+Added Member To Class: ClassName=SoC Member=Component C10 C0201
+Added Member To Class: ClassName=SoC Member=Component C11 C0201
+Added Member To Class: ClassName=SoC Member=Component C12 10u
+Added Member To Class: ClassName=SoC Member=Component C13 1u
+Added Member To Class: ClassName=SoC Member=Component C14 100n
+Added Member To Class: ClassName=SoC Member=Component C15 100n
+Added Member To Class: ClassName=SoC Member=Component C16 100n
+Added Member To Class: ClassName=SoC Member=Component C17 100n
+Added Member To Class: ClassName=SoC Member=Component C25 100n_DNP
+Added Member To Class: ClassName=SoC Member=Component C27 100n
+Added Member To Class: ClassName=Connections Member=Component C28 100n
+Added Member To Class: ClassName=Connections Member=Component C29 100n
+Added Member To Class: ClassName=Connections Member=Component C30 100n
+Added Member To Class: ClassName=Connections Member=Component C31 100n
+Added Member To Class: ClassName=Connections Member=Component C32 100n
+Added Member To Class: ClassName=Connections Member=Component C33 100n
+Added Member To Class: ClassName=Power Member=Component IC1 TPS562211DRLR
+Added Member To Class: ClassName=SoC Member=Component IC3 ASMB-MTB1-0A3A2
+Added Member To Class: ClassName=SoC Member=Component J1 RECE.20369.001E.01
+Added Member To Class: ClassName=Connections Member=Component J2 GSB1C41110SSHR
+Added Member To Class: ClassName=Connections Member=Component J3 22-28-4062
+Added Member To Class: ClassName=Connections Member=Component J4 22-10-2041
+Added Member To Class: ClassName=SoC Member=Component L2 L0201
+Added Member To Class: ClassName=SoC Member=Component L3 2n
+Added Member To Class: ClassName=Power Member=Component R1 45k3
+Added Member To Class: ClassName=Power Member=Component R3 10k
+Added Member To Class: ClassName=Power Member=Component R4 10k
+Added Member To Class: ClassName=Power Member=Component R5 1k5
+Added Member To Class: ClassName=SoC Member=Component R7 0R
+Added Member To Class: ClassName=SoC Member=Component R9 1k5
+Added Member To Class: ClassName=SoC Member=Component R10 499R
+Added Member To Class: ClassName=SoC Member=Component R11 1k5
+Added Member To Class: ClassName=SoC Member=Component R12 22R
+Added Member To Class: ClassName=SoC Member=Component R13 100k
+Added Member To Class: ClassName=SoC Member=Component R15 100k
+Added Member To Class: ClassName=Connections Member=Component R17 10k
+Added Member To Class: ClassName=Connections Member=Component R19 5k1
+Added Member To Class: ClassName=Connections Member=Component R20 10k
+Added Member To Class: ClassName=Connections Member=Component U1 THB001P
