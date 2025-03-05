@@ -33,7 +33,7 @@ Supply Voltage: +5V0 to +5V5 (recommended: +5V0) USB supplied. On board Texas In
 - Manufacturing & assembly: complete
 - Bring-Up: PSRAM untested and desoldered for hardware debugging reasons and jet to be teseted, Wi-Fi jet to be tested (Waiting for Antennas and IPX connector order), Joystick, RGB-LED successfully tested
 
-# Difficulties and Guide for bring up
+# Difficulties and guide for bring up
 - Uploading / Flashing from Arduino IDE does not work
 - Used and working IDE Visual Studio Code with PlatformIO (Arduino Serial Monitor + Plotter working when reading serial data, note: Close serial monitor in PlatformIO in order to work with other serial terminals)
 - While Hardware bring-up the vdd_sdio Voltage was set to +1.8 V by factory default. The used QSPI NOR-Flash (W25Q64JVZEIQ) has a minimum operating voltage of +2,7 V (so +3,3 V Logic levels). The vdd_sdio voltage needs to be set up. Download the [ESPtool](https://github.com/espressif/esptool) from Espressif repository. Navigate trough command window to the ESPtool directory and input following
@@ -62,3 +62,4 @@ build_flags =
    -DARDUINO_USB_MODE=1
    -DARDUINO_USB_CDC_ON_BOOT=1
 ```
+- Note to configure the COM-Port according to device manager and how it is recognized from the End device
