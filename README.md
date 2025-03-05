@@ -37,17 +37,17 @@ Supply Voltage: +5V0 to +5V5 (recommended: +5V0) USB supplied. On board Texas In
 # Difficulties and guide for bring up
 - Uploading / Flashing from Arduino IDE does not work
 - Used and working IDE: Visual Studio Code with PlatformIO (Arduino Serial Monitor + Plotter working when reading serial data, note: Close serial monitor in PlatformIO in order to work with other serial terminals)
-- While Hardware bring-up the vdd_sdio Voltage was set to +1.8 V by factory default. The used QSPI NOR-Flash (W25Q64JVZEIQ) has a minimum operating voltage of +2,7 V (so +3,3 V Logic levels). The vdd_sdio voltage needs to be changed. Download the [ESPtool](https://github.com/espressif/esptool) from Espressif repository. Navigate trough command window to the ESPtool directory and input following
+- While Hardware bring-up the vdd_sdio Voltage was set to +1.8 V by factory default. The used QSPI NOR-Flash (W25Q64JVZEIQ) has a minimum operating voltage of +2.7 V (so +3.3 V Logic levels). The vdd_sdio voltage needs to be changed. Download the [ESPtool](https://github.com/espressif/esptool) from Espressif repository. Navigate trough command window (CMD) to the ESPtool directory and input following:
 ```
 python -m espefuse --chip esp32-s3 --port COM3 set_flash_voltage 3.3V
 ```
 It is recommended to power reset the device to apply the vdd_sdio changes.
 
-- You can also erase the flash by writing following line
+- You can also erase the flash by writing following line:
 ```
 python -m esptool --chip esp32-s3 --port COM3 erase_flash
 ```
-- For PlatformIO following configurations worked for my custom hardware for the platformio.ini
+- For PlatformIO following configurations worked for my custom hardware for the platformio.ini:
 ```
 [env:esp32s3]
 platform = espressif32
