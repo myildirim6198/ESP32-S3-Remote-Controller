@@ -39,3 +39,26 @@ Supply Voltage: +5V0 to +5V5 (recommended: +5V0) USB supplied. On board Texas In
 - While Hardware bring-up the vdd_sdio Voltage was set to +1.8 V by factory default. The used QSPI NOR-Flash (W25Q64JVZEIQ) has a minimum operating voltage of +2,7 V (so +3,3 V Logic levels). The vdd_sdio voltage needs to be set up. Download the [ESPtool](https://github.com/espressif/esptool) from Espressif repository. Navigate trough command window to the ESPtool directory and input following
 ```
 python -m espefuse --chip esp32-s3 --port COM3 set_flash_voltage 3.3V
+```
+- You can also erase the flash by writing following line
+```
+python -m esptool --chip esp32-s3 --port COM3 erase_flash
+```
+- For PlatformIO following configurations worked for my custom hardware for the platformio.ini
+```
+[env:esp32s3]
+platform = espressif32
+board = esp32-s3-devkitc-1
+framework = arduino
+monitor_speed = 115200
+upload_speed = 921600
+board_build.flash_mode = qio      ; QIO für schnelle Übertragung
+board_build.flash_size = 8MB     ; 8MB Flash
+board_build.partitions = default_8MB.csv
+upload_port = COM3
+monitor_port = COM3
+
+build_flags =
+   -DARDUINO_USB_MODE=1
+   -DARDUINO_USB_CDC_ON_BOOT=1
+```
