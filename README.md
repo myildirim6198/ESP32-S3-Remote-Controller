@@ -13,6 +13,7 @@ An ESP32-S3 based remote controller for controlling FPV drones and other vraious
 - Remote Controller for FPV drones or EDF Planes
 - Game controller
 - Smart home
+- Other Remote controller Applications
 
 # Absolute Maximum Ratings
 Supply Voltage: +5V0 to +5V5 (recommended: +5V0) USB supplied. On board Texas Instrumaents Switching Voltage regulator
