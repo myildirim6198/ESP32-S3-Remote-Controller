@@ -8,6 +8,7 @@ An ESP32-S3 based remote controller for controlling FPV drones and other vraious
 - 2x THB001P Joysticks
 - 2.54 mm pitch connector for connecting an additional I2C device
 - 2.54 mm pitch connector for plugging in an USB to FTDI adapter
+- USB Type C connector
 
 # Applications
 - Remote Controller for FPV drones or EDF Planes
