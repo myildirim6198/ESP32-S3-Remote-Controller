@@ -62,4 +62,4 @@ build_flags =
    -DARDUINO_USB_MODE=1
    -DARDUINO_USB_CDC_ON_BOOT=1
 ```
-- Note to configure the COM-Port according to device manager and how it is recognized from the End device
+- Note to configure the COM-Port according to device manager and how it is recognized by the End device
