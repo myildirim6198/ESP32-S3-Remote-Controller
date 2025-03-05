@@ -31,7 +31,7 @@ Supply Voltage: +5V0 to +5V5 (recommended: +5V0) USB supplied. On board Texas In
 - Schematic design: complete
 - Layouting: complete
 - Manufacturing & assembly: complete
-- Bring-Up: PSRAM untested and desoldered for hardware debugging reasons and jet to be teseted, Wi-Fi jet to be tested (Waiting for Antennas and IPX connector order), Joystick, RGB-LED successfully tested
+- Bring-Up: PSRAM untested and desoldered for hardware debugging reasons and yet to be teseted, Wi-Fi yet to be tested (Waiting for Antennas and IPX connector order), Joystick, RGB-LED successfully tested
 
 # Difficulties and guide for bring up
 - Uploading / Flashing from Arduino IDE does not work
